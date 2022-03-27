@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @anurag-coinshred
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Anurag Rai
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Backend Development in Python
+- 💞️ I’m looking to collaborate on Mooncase
+- 📫 How to reach me anurag@mooncase.io
 
 <!---
 anurag-coinshred/anurag-coinshred is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
